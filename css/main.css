@@ -59,6 +59,10 @@ html {
   text-decoration: none;
 }
 
+.nav a:focus {
+  outline: 1px solid white;
+}
+
 .masthead a:hover {
   background-color: rgba(180, 220, 255, .3);
 }
